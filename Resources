@@ -1,1 +1,32 @@
-d
+Location:	             Time Spent there:	          Entertainment Level:
+
+Selfish Poke	         15	                          1
+Cathedral	             90	                          3
+Alcazar	               100	                        4
+Aqueduct	             20	                          3
+Burbuja	               5	                          5
+Hills	                 120	                        8
+Damasco	               50	                          8
+Iglesia	               60	                          2
+Plaza	                 60	                          8
+Irish	                 30	                          10
+
+
+
+Walk from	             To	                          Time
+
+Plaza	                 Irish	                      3
+Plaza	                 Cathedral	                  1
+Irish	                 Aqueduct	                    8
+Irish	                 Poke	                        4
+Poke	                 Iglesia	                    7
+Poke	                 Aqueduct	                    7
+Aqueduct	             Burbuja	                    2
+Burbuja	               Damasco	                    14
+Aqueduct	             Damasco	                    15
+Damasco	               Hills	                      30
+Cathedral	             Iglesia 	                    6
+Iglesia	               Hills	                      20
+Cathedral	             Poke	                        7
+Cathedral	             Alcazar	                    11
+Alcazar	               Hills	                      20
