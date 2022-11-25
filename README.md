@@ -10,11 +10,11 @@ Overall, our project intends to satisfy the market’s demand for users looking 
 
 
 3) How users can get started with the project?
-Getting started with the project could not be more simple. It is a free product which is very helpful for new users as they won’t have a single entry barrier, they can just download and start using our services as soon as they want to. How it works, even more simple, the user will just have to input the destination of start and end of the tour as well as how long they want the tour to last and how adventurous they want it to be, then the most suitable tour will show for them. After that, all that’s left is just about enjoying the experience and creating wonderful memories.
+Getting started with the project could not be more simple. It is a product that costs around 4.99 Euros per tour. It is very easy for new users as they won’t have a single entry barrier, they can just download and start using our services as soon as they want to. How it works, even more simple, the user will just have to input the destination of start and end of the tour as well as how long they want the tour to last and how adventurous they want it to be, then the most suitable tour will show for them. After that, all that’s left is just about enjoying the experience and creating wonderful memories.
 
 
 4) How users can get help with your project?
-Together with our service we will provide a 24/7 IA based customer service that will answer basic doubts that may occur to our users. For more specific problems and doubts we will also provide a customer service through phone calls and emails that will respond to the user’s doubts and questions as soon as they can.
+Together with our service we will provide a 24/7 AI based customer service that will answer basic doubts that may occur to our users. For more specific problems and doubts we will also provide a customer service through phone calls and emails that will respond to the user’s doubts and questions as soon as they can.
 
 
 5) Who maintains and contributes to the project?
