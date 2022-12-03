@@ -10,6 +10,8 @@ To be able to run our program, make sure to have:
 - A python programming language
 - Libraries: import heapq
 
+Now that we have the required libraries set up, open the file named "PING algorithm.py" and run the program.
+
 # Usage
 
 
