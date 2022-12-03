@@ -19,9 +19,10 @@ Now that we have the required libraries set up, open the file named "PING algori
 # Some Extra Information About the Code
 
 In order to create our algorithm, we used the following data structures:
+- weighted graphs
 
 We also used the following algorithms:
-
+- Dijkstra's algorithm
 
 # Credits
 
