@@ -27,6 +27,10 @@ In order to create our algorithm, we used the following data structures:
 We also used the following algorithms:
 - Dijkstra's algorithm
 
+We also created an excel that has all the resources needed to create our program. The file can be openeed above, it is named "PING Resources.xltx"
+In the excel, you will find the ten locations in Segovia used for the program, the time usually spent at each location, and the time it takes from a
+location to another.
+
 # Credits
 
 The authors of this project are:
