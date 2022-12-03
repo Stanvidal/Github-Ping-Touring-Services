@@ -1,12 +1,12 @@
-#Project Name - Ping Touring Service
+# Project Name - Ping Touring Service
 
-#Installation
+# Installation
 
-#Usage
+# Usage
 
-#Some Extra Information About the Code
+# Some Extra Information About the Code
 
-#Credits
+# Credits
 
 The authors of this project are:
 Daniel Yebra
