@@ -9,6 +9,7 @@
 # Credits
 
 The authors of this project are:
+
 Daniel Yebra
 Stanislas Vidal
 Marc Haupter
