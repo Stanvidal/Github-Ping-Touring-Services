@@ -24,15 +24,9 @@ We also used the following algorithms:
 # Credits
 
 The authors of this project are:
-
-Daniel Yebra
-
-Stanislas Vidal
-
-Marc Haupter
-
-Christian Rautenberg
-
-Jesus Sanchez
-
-Saleh Haidar
+- Daniel Yebra
+- Stanislas Vidal
+- Marc Haupter
+- Christian Rautenberg
+- Jesus Sanchez
+- Saleh Haidar
