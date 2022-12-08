@@ -7,8 +7,8 @@ Ping Touring Services is an application that offers customizable tours for anyon
 # Installation
 
 To be able to run our program, make sure to have:
-- A python programming language
-- Libraries: import heapq
+- A python programming language: We used on a macbook. We also used pycharm as our programming environment.
+- Libraries: heapq
 
 To download the libary, type:
 import heapq
@@ -17,7 +17,11 @@ Now that we have the required libraries set up, open the file named "PING algori
 
 # Usage
 
-Once a user enters our platform, they are asked to input three things: 1) the start location of their tour, 2) the end location of their tour, and 3) the level of adventure they want their tour to be on a scale from 1 to 10.
+Once a user enters our platform, they are asked to input three things: 
+1) the start location of their tour.
+2) the end location of their tour. 
+3) the level of adventure they want their tour to be on a scale from 1 to 10.
+
 The user is then given the following output: 
 The user will be given a list of loactions to go to in order based on the input he gave. The list is in order from start to finish. They are also given the total amount of time it takes to travel between these locations, and the total amount of time they are estimated to spend at the locations.
 
@@ -44,3 +48,5 @@ The authors of this project are:
 - Christian Rautenberg
 - Jesus Sanchez
 - Saleh Haidar
+
+# Bibliography
