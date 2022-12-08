@@ -26,11 +26,8 @@ The user is then given the following output:
 The user will be given a list of loactions to go to in order based on the input he gave. The list is in order from start to finish. They are also given the total amount of time it takes to travel between these locations, and the total amount of time they are estimated to spend at the locations.
 
 The program currently only works for Segovia, but hopefully we will later on expand to different and bigger cities. 
-
-
-<img width="257" alt="Screenshot 2022-12-08 at 15 07 46" src="https://user-images.githubusercontent.com/118168121/206467169-8a3225e8-1dc9-4bb1-8d78-8dbe57293fee.png">
-
-<img width="621" alt="Screenshot 2022-12-08 at 13 21 56" src="https://user-images.githubusercontent.com/118168121/206467424-46764127-f8e7-4493-acda-a3035386fa2b.png">
+<img width="621" alt="Screenshot 2022-12-08 at 13 21 56" src="https://user-images.githubusercontent.com/118168121/206470987-4d3361b2-eda7-410b-a611-3b1c6c54cbc4.png">
+<img width="257" alt="Screenshot 2022-12-08 at 15 07 46" src="https://user-images.githubusercontent.com/118168121/206471050-498a3105-6a91-4596-95e8-4fc952d8d0bd.png">
 
 
 
