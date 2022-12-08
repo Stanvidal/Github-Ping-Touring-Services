@@ -7,7 +7,7 @@ Ping Touring Services is an application that offers customizable tours for anyon
 # Installation
 
 To be able to run our program, make sure to have:
-- A python programming language: We used on a macbook Pro macOS. We also used pycharm as our programming environment.
+- A python programming language: We used python on a macbook Pro macOS. We also used PyCharm 2022.2 (Edu) as our programming environment.
 - Libraries: heapq
 
 To download the libary, type:
@@ -56,3 +56,4 @@ The authors of this project are:
 - Saleh Haidar
 
 # Bibliography
+
