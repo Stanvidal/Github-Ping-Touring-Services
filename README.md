@@ -57,3 +57,6 @@ The authors of this project are:
 
 # Bibliography
 
+For help creating and building the algorithm, we used our Algorithms and Data Structures' teacher's slides. We also used this article here for help:
+
+https://www.toptal.com/python/python-class-attributes-an-overly-thorough-guide 
