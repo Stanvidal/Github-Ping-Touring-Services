@@ -27,6 +27,8 @@ The user will be given a list of loactions to go to in order based on the input 
 
 The program currently only works for Segovia, but hopefully we will later on expand to different and bigger cities. 
 <img width="621" alt="Screenshot 2022-12-08 at 13 21 56" src="https://user-images.githubusercontent.com/118168121/206470987-4d3361b2-eda7-410b-a611-3b1c6c54cbc4.png">
+
+
 <img width="257" alt="Screenshot 2022-12-08 at 15 07 46" src="https://user-images.githubusercontent.com/118168121/206471050-498a3105-6a91-4596-95e8-4fc952d8d0bd.png">
 
 
